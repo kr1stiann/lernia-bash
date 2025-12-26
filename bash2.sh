@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 read -p "Ange ditt namn: " namn
 read -p "Ange din ålder: " alder

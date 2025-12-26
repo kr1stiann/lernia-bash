@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 echo "Hej $USER, du befinner dig i katalogen $(pwd)"
 
